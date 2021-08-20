@@ -87,12 +87,12 @@
        style="fill:#008000;fill-opacity:0.5;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 80.766646,129.33355 68.845408,117.17873 100.20577,102.807 l 31.36036,14.37173 -11.92124,12.15482 -19.43912,-8.90851 z" />
     <path
-       id="path959"
-       style="fill:#008000;fill-opacity:0.5;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 62.440635,147.57704 -11.023099,-11.23911 48.788234,-22.35884 48.78875,22.35884 -11.02362,11.23911 -37.76513,-17.30696 z" />
-    <path
        style="fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.5"
        d="M 100.20577,164.88399 62.440631,147.57703 100.20577,130.27008 137.9709,147.57703 Z"
        id="path964" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.20577,137.80089 -19.439124,-8.9085 19.439124,-8.46735 19.43912,8.46735 z"
+       id="path847" />
   </g>
 </svg>
