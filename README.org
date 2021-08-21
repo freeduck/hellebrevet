@@ -1,15 +1,8 @@
-OK so I am only a layperson, and I am in dialog with my employer about my rights as a coworker.
-And I hope to be able to pass these human friendly rights on to my children, and everybody else who want's them.
-But since I don't speak law language I could really use some help refining the following.
-Is this reasonable:
+If this is true:
 
-    Med virkning fra 5/5-2021 aftales følgende. Dette bilag har til hensigt at præcisere egne rettigheder erhvervet som konsulent i Selskabet.Hovedreglen er, at udviklingsarbejde, kode og værker af enhver art som Medarbejderen under ansættelsesforholdet måtte frembringe, og som relaterer sig til Selskabets virksomhed eller dennes kunder, tilfalder Selskabet, der har ret til i enhver henseende at disponere over (herunder overdrage) dette.Såfremt Medarbejderen under private forhold i egen person udvikler og udgiver kode og værker af enhver art tilfalder ophavsretten Medarbejderen. Det skal præciseres, at medarbejderen ikke kan hjemtage udviklingsarbejde og kode eller lignende udført i medfør af ansættelsesforholdet.
+BEGIN_QUOTE
+Ophavsretten til et edb-program, der er frembragt af en arbejdstager under udførelsen af dennes arbejde eller efter arbejdsgiverens  anvisninger, overgår til arbejdsgiveren.
+END_QUOTE
+Lov om ophavsret paragraf 59
 
-Drop me an e-mail:
-
-kristian.nygaard.jensen@kringer.dk if it is personal
-kristian.nygaard.jensen@cybercom.com for business
-
-XOXO
-
-Kristian Nygaard Jensen
+Then either I didn't read it carfully enough or I was 🚀Ooooed.
