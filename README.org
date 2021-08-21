@@ -1,8 +1,8 @@
 If this is true:
 
-BEGIN_QUOTE
+#+BEGIN_QUOTE
 Ophavsretten til et edb-program, der er frembragt af en arbejdstager under udførelsen af dennes arbejde eller efter arbejdsgiverens  anvisninger, overgår til arbejdsgiveren.
-END_QUOTE
+#+END_QUOTE
 Lov om ophavsret paragraf 59
 
 Then either I didn't read it carfully enough or I was 🚀Ooooed.
