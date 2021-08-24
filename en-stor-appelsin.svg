@@ -23,7 +23,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
+     inkscape:zoom="0.49497475"
      inkscape:cx="275.98613"
      inkscape:cy="366.03115"
      inkscape:document-units="mm"
@@ -62,39 +62,43 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Asterisk">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.839286,89.844387 v 8.799322 h -0.190971"
-       id="path861" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 82.547981,94.270158 -7.620436,4.399661 -0.09549,-0.165386"
-       id="path1502"
-       inkscape:transform-center-x="-3.8292143"
-       inkscape:transform-center-y="-2.2632096" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 82.569498,103.15897 -7.620436,-4.399662 0.09548,-0.16539"
-       id="path1504"
-       inkscape:transform-center-x="-3.8984763"
-       inkscape:transform-center-y="2.1432459" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 74.88232,107.62201 10e-7,-8.799323 0.190972,-7e-6"
-       id="path1506"
-       inkscape:transform-center-x="-0.1170028"
-       inkscape:transform-center-y="4.4891469" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 67.173625,103.19624 7.620438,-4.399663 0.09549,0.165383"
-       id="path1508"
-       inkscape:transform-center-x="3.8292147"
-       inkscape:transform-center-y="2.2632104" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 67.152107,94.307427 7.620439,4.399661 -0.09548,0.165389"
-       id="path1510"
-       inkscape:transform-center-x="3.8984772"
-       inkscape:transform-center-y="-2.1432461" />
+    <g
+       id="g1518"
+       transform="translate(69.990424,53.714209)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.839286,89.844387 v 8.799322 h -0.190971"
+         id="path861" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 82.547981,94.270158 -7.620436,4.399661 -0.09549,-0.165386"
+         id="path1502"
+         inkscape:transform-center-x="-3.8292143"
+         inkscape:transform-center-y="-2.2632096" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 82.569498,103.15897 -7.620436,-4.399662 0.09548,-0.16539"
+         id="path1504"
+         inkscape:transform-center-x="-3.8984763"
+         inkscape:transform-center-y="2.1432459" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.88232,107.62201 10e-7,-8.799323 0.190972,-7e-6"
+         id="path1506"
+         inkscape:transform-center-x="-0.1170028"
+         inkscape:transform-center-y="4.4891469" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 67.173625,103.19624 7.620438,-4.399663 0.09549,0.165383"
+         id="path1508"
+         inkscape:transform-center-x="3.8292147"
+         inkscape:transform-center-y="2.2632104" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 67.152107,94.307427 7.620439,4.399661 -0.09548,0.165389"
+         id="path1510"
+         inkscape:transform-center-x="3.8984772"
+         inkscape:transform-center-y="-2.1432461" />
+    </g>
   </g>
 </svg>
